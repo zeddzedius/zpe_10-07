@@ -1,0 +1,45 @@
+Иван Смирнов
+Москва, +7 912 345-67-89, ivan.smirnov@email.com
+GitHub: github.com/ismirnov LinkedIn: linkedin.com/in/ismirnov
+
+Краткая информация
+Python-разработчик с 5 лет опыта в ML-проектах. Специализируюсь на создании веб-сервисов для развёртывания моделей машинного обучения в продакшен, оптимизации производительности и организации CI/CD. Участвовал в проектах с миллионными объёмами данных, знаком с контейнеризацией и облачными платформами.
+
+Опыт работы
+Senior Python/ML Engineer, AutoDataLab (янв 2022 – наст. время)
+
+Разрабатывал FastAPI-сервисы для онлайн-прогноза стоимости грузоперевозок (Python, FastAPI, Docker).
+
+Построил пайплайн ETL: выгрузка из PostgreSQL → предобработка (pandas, NumPy) → обучение моделей (scikit-learn, XGBoost).
+
+Выпустил в продакшен свёрточную нейросеть на PyTorch для детекции дефектов на конвейере (автоматизированное тестирование — pytest).
+
+Настроил CI/CD: конвейер GitLab CI + Docker + развёртывание на AWS ECS.
+
+Оптимизировал время инференса: уменьшил Latency с 300 мс до 80 мс (модели PyTorch → ONNX Runtime).
+
+Python Developer, ML-стартап DataVisor (сен 2019 – дек 2021)
+
+Создавал REST-API на Flask для извлечения признаков из потоков данных (Kafka, Redis).
+
+Внедрял рекомендательные модели на LightGBM и TensorFlow в существующую инфраструктуру.
+
+Разработал микросервис мониторинга качества данных (SQL, MongoDB), который выявляет аномалии в режиме реального времени.
+
+Образование
+МГТУ имени Баумана, Факультет «Прикладная математика и информатика» (бакалавр, 2015 г. — магистр, 2017 г.)
+
+Навыки
+Языки и фреймворки: Python, FastAPI, Flask, scikit-learn, TensorFlow, PyTorch, Docker, Kubernetes
+
+Базы данных: PostgreSQL, Redis, MongoDB
+
+DevOps: Git, GitLab CI/CD, Docker, AWS (ECS, S3), Airflow
+
+Тестирование: pytest, unittest
+
+Инструменты: pandas, NumPy, XGBoost, ONNX Runtime, Prometheus, Grafana
+
+Методологии: Agile, Scrum
+
+Язык: английский — Upper-Intermediate
